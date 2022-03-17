@@ -1,0 +1,43 @@
+
+
+
+body {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.counterContainer {
+	text-align: center;
+	color: white;
+}
+
+.count {
+	font-size: 200px;
+}
+
+.euro {
+	font-size: 60px;
+}
+
+.button {
+	background-color: #FEC605;
+	border: 10px solid #FEC605;
+	border-radius: 10px;
+	width: 50%;
+	height: 20%;
+
+	font-family: 'Roboto', serif;
+	font-size: 50px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
